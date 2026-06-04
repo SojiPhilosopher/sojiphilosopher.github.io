@@ -1,30 +1,32 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Joy Ejimofor Portfolio Website
 
+Welcome to my personal portfolio website repository.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+This website showcases my Data Analytics projects, technical skills, and professional experience.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Live Website
 
-(* = not included)
+https://sojiphilosopher.github.io/
 
-AJ
-aj@lkn.io | @ajlkn
+## Technologies Used
 
+* HTML
+* CSS
+* JavaScript
 
-Credits:
+## Featured Projects
 
-	Demo Images:
-		Unsplash (unsplash.com)
+* Logistics Fleet Analytics Dashboard (Power BI)
+* Netflix Content Analytics Dashboard (Power BI)
+* Sales Performance Dashboard (Excel)
+* Laptop Sales Analysis Dashboard (Power Bi)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## About Me
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I am an aspiring Data Analyst passionate about transforming data into actionable insights through data visualization, business intelligence, and storytelling.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/joy-ifeoma-ejimofor-b41ab2358
+
+GitHub: https://github.com/SojiPhilosopher
